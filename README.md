@@ -9,7 +9,7 @@
 ### Currently working on:
 - 📄 Contact Website
   - 🔗 Link: [https://morrisseau.ca/](https://morrisseau.ca/)
-  - 🤖 Repo: [https://github.com/gavinmorrisseau/morrisseau.ca/](https://github.com/gavinmorrisseau/morrisseau.ca/)
+  - 🤖 Repo: [https://github.com/gavinmorrisseau/gavinmorrisseau.github.io/](https://github.com/gavinmorrisseau/gavinmorrisseau.github.io/)
 - 📷 Photography Website
   - 🔗 Link: [https://gavinspolaroids.ca/](https://gavinspolaroids.ca/)
-  - 🤖 Repo: [https://github.com/gavinmorrisseau/gavinspolaroids.github.io/](https://github.com/gavinmorrisseau/gavinspolaroids.github.io)
+  - 🤖 Repo: [https://github.com/gavinmorrisseau/gavinspolaroids/](https://github.com/gavinmorrisseau/gavinspolaroids)

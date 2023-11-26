@@ -1,16 +1,14 @@
-### Hi there 👋
+### Fast Facts! 
+- 🎓 Attending University of Manitoba
+- 👨🏻‍💻 Computer Science Major
+- 🤏🏻 GitHub beginner
+- 📸 Lives for photography (film and digital)
+- 😺 Proud cat owner
 
-<!--
-**gavinmorrisseau/gavinmorrisseau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Curently working on:
+- 📄 Contact Website
+  - 🔗 Link: [https://morrisseau.ca/](https://morrisseau.ca/)
+  - 🤖 Repo: [https://github.com/gavinmorrisseau/morrisseau.ca/](https://github.com/gavinmorrisseau/morrisseau.ca/)
+- 📷 Photography Website
+  - 🔗 Link: [https://gavinspolaroids.ca/](https://gavinspolaroids.ca/)
+  - 🤖 Repo: [https://github.com/gavinmorrisseau/gavinspolaroids.ca/](https://github.com/gavinmorrisseau/gavinspolaroids.ca)

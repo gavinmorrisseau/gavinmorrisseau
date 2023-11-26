@@ -12,4 +12,4 @@
   - 🤖 Repo: [https://github.com/gavinmorrisseau/morrisseau.ca/](https://github.com/gavinmorrisseau/morrisseau.ca/)
 - 📷 Photography Website
   - 🔗 Link: [https://gavinspolaroids.ca/](https://gavinspolaroids.ca/)
-  - 🤖 Repo: [https://github.com/gavinmorrisseau/gavinspolaroids.ca/](https://github.com/gavinmorrisseau/gavinspolaroids.ca)
+  - 🤖 Repo: [https://github.com/gavinmorrisseau/gavinspolaroids.github.io/](https://github.com/gavinmorrisseau/gavinspolaroids.github.io)

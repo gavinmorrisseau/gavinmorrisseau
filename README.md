@@ -2,10 +2,11 @@
 - 🎓 Attending University of Manitoba
 - 👨🏻‍💻 Computer Science Major
 - 🤏🏻 GitHub beginner
+- 💻 I work best in Python, Java, and Processing.
 - 📸 Lives for photography (film and digital)
 - 😺 Proud cat owner
 
-### Curently working on:
+### Currently working on:
 - 📄 Contact Website
   - 🔗 Link: [https://morrisseau.ca/](https://morrisseau.ca/)
   - 🤖 Repo: [https://github.com/gavinmorrisseau/morrisseau.ca/](https://github.com/gavinmorrisseau/morrisseau.ca/)

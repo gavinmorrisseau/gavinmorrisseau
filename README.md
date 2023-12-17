@@ -7,9 +7,9 @@
 - 😺 Proud cat owner
 
 ### Currently working on:
-- 📄 Contact Website
-  - 🔗 Link: [https://morrisseau.ca/](https://morrisseau.ca/)
-  - 🤖 Repo: [https://github.com/gavinmorrisseau/gavinmorrisseau.github.io/](https://github.com/gavinmorrisseau/gavinmorrisseau.github.io/)
+- 🎵 aijukebox.net
+  - 🔗 Link: In progress
+  - 🤖 Repo: [https://github.com/gavinmorrisseau/aijukebox.net/](https://github.com/gavinmorrisseau/aijukebox.net/)
 - 📷 Photography Website
   - 🔗 Link: [https://gavinspolaroids.ca/](https://gavinspolaroids.ca/)
   - 🤖 Repo: [https://github.com/gavinmorrisseau/gavinspolaroids/](https://github.com/gavinmorrisseau/gavinspolaroids)
